@@ -20,7 +20,7 @@ The future of Isla Vista is bleak. Rent prices are astronomically high, often fo
 
 The Isla Vista Community Services District[^ivcsd] must immediately draft a formal zombie response plan. This white paper will address some issues that should be taken into consideration. We review the leading scientific explanation for zombie infection, propose four measures to protect Isla Vista, estimate what those measures will cost, and report the results of a survey showing the lack of preparation of local students.
 
-![A picture of a zombie with its arms wrapped around a tree](/img/zombie.jpg)
+![A picture of a zombie with its arms wrapped around a tree](/img/zombie.svg)
 
 ## 2. Two Quotes about Zombie Physiology {#twoquotes}
 
