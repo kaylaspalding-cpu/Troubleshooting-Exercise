@@ -18,7 +18,7 @@ const sidebars = {
     {
       type: 'doc',
       id: 'zombie',
-      label: 'Defending our Home',
+      label: '☀️☀️☀️☀️☀️☀️☀️',
       className: 'sidebar-paper-title',
     },
     {
