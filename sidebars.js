@@ -33,7 +33,7 @@ const sidebars = {
       href: `${PAPER}#twoquotes`,
     },
     {type: 'link', label: '3. A Four-Step Plan', href: `${PAPER}#foursteps`},
-    {type: 'link', label: '4. Cost Analysis', href: `${PAPER}#costs`},
+    {type: 'link', label: '4. Cost Analysis', href: `${PAPER}#tacos`},
     {type: 'link', label: '5. Survey', href: `${PAPER}#survey`},
     {type: 'link', label: '6. Call to Action', href: `${PAPER}#calltoaction`},
     {
