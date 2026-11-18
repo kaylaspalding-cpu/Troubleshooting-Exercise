@@ -34,7 +34,7 @@ and
 
 While many theories exist about the exact mechanism behind zombie infections, the most prominent one was made famous in the video game and television series *The Last of Us*. Essentially, a mutated strain of Ophiocordyceps — a real-world "zombie ant" fungus [1] — evolved to survive human body temperature and infect the brain, turning its living host into a hyper-aggressive puppet whose sole drive is to spread the fungus to others through chewing into their flesh.[^fungus]
 
-## 3. A Four-Step Plan {#foursteps}
+## 3. A Four-Step Plan {#tacos}
 
 We want to suggest a four-step plan for the Isla Vista Community Services District:
 
@@ -59,7 +59,7 @@ Table 1 summarizes the cost of each measure, based on our own detailed economic 
 
 <p><strong>Table 1.</strong> Economic analysis.</p>
 
-:::warning[How to pay for measures]
+:::danger[How to pay for measures]
 We recognize the cost of these measures is quite large. We therefore suggest a 2.5% wealth tax on Oprah, who lives in nearby Montecito.
 :::
 
