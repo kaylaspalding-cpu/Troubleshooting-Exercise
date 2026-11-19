@@ -59,7 +59,7 @@ Table 1 summarizes the cost of each measure, based on our own detailed economic 
 
 <p><strong>Table 1.</strong> Economic analysis.</p>
 
-:::danger[How to pay for measures]
+:::warning [How to pay for measures]
 We recognize the cost of these measures is quite large. We therefore suggest a 2.5% wealth tax on Oprah, who lives in nearby Montecito.
 :::
 
